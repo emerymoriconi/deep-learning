@@ -6,4 +6,4 @@ Neste repositório conectado ao **Google Colab** irei salvar um embasamento teó
 
 Aqui está disponível o link de acesso direto ao caderno no **Google Colab**.
 
-[deep-learning.ipnyb](/https://colab.research.google.com/drive/1sb1OumiHIXDl9qzf0Mk5mUY8QF9FVdg2?usp=sharing)
+[deep-learning.ipynb](/deep-learning.ipynb)
